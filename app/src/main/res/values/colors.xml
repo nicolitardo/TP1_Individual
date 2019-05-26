@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#ffff8800</color>
+    <color name="nombre_alumno_color">#9325bf</color>
+    <color name="grupo_pertenece">#259ebf</color>
+    <color name="colorPrimary">#bf9325</color>
+    <color name="colorPrimaryDark">#9ebf25</color>
+    <color name="colorAccent">#51bf25</color>
+</resources>
